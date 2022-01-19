@@ -1,4 +1,13 @@
-### Hi there 👋
+### 🌱 I’m currently learning ...
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjm529&show_icons=true&theme=Default)
+
+#### Teck Stack
+![Badge](http://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Badge](http://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![Badge](http://img.shields.io/badge/jQuery-%230769AD?style=flat-square&logo=jQuery&logoColor=white)
+![Badge](http://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white)
+![Badge](http://img.shields.io/badge/-MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=white)
 
 <!--
 **pjm529/pjm529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋
 -->
